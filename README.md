@@ -1,2 +1,2 @@
 # hackerrank
-Solutions to various different hackerrank problems written in C
+Solutions to various different hackerrank problems written in C/C++
